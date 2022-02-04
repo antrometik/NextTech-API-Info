@@ -1,5 +1,4 @@
 # API Info - NextTech OS
-Currently [experimenting] with some things.
-Including ["git"]
-- yes, trying.
-- yes, second time.
+This is a WIP project made by glaqss.
+- I made it so that I can keep databases off of the Roblox platform
+- Also made it to keep data like player joins more secure.
